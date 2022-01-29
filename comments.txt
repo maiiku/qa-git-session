@@ -2,7 +2,5 @@ This is a shared file. Add your comments on lines below:
 1. It's windy today
 2. As hell
 Marta
-Marta branch zmiany
-
-
+Marta zmiany na marta_branch_qa
 
